@@ -13,7 +13,7 @@ REM ==LICENSE
 REM   BSD 3-clause
 
 REM ==Website
-REM   https://github.com/jchan-gi/RINNA
+REM   https://github.com/jchan-gi/RIINA
 
 REM ==DEFINE PROGRAM WIDE VAR
 REM ---Path information---
